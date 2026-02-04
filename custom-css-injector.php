@@ -4,7 +4,7 @@
  * Plugin URI: http://127.0.0.1:5500/index.html
  * Description: Allows site administrators to add custom CSS styles directly from the WordPress admin dashboard without editing theme files.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Ammar Hasan
  * License: GPL v2 or later
  * Text Domain: custom-css-injector
  */
