@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom CSS Injector
- * Plugin URI: https://example.com/custom-css-injector
+ * Plugin URI: http://127.0.0.1:5500/index.html
  * Description: Allows site administrators to add custom CSS styles directly from the WordPress admin dashboard without editing theme files.
  * Version: 1.0.0
  * Author: Your Name
