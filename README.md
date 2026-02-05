@@ -2,7 +2,7 @@
 
 A professional WordPress plugin that enables site administrators to add custom CSS styles directly from the WordPress admin dashboard without modifying theme files.
 
-![Plugin Homepage](C:\xampp\htdocs\wordpress\wp-content\plugins\Custom CSS Injector\Hero Section.png)
+![Plugin Homepage](Hero_Section.png)
 
 ## Overview
 
