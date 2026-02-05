@@ -49,7 +49,7 @@ Custom CSS Injector provides a secure and user-friendly interface for adding cus
 ### Accessing the Plugin
 After activation, navigate to **Appearance > Custom CSS** in your WordPress admin dashboard.
 
-![CSS Editor](images/css-editor.png)
+![CSS Editor](3rd.png)
 
 ### Adding Custom Styles
 1. Enter your CSS code in the provided textarea editor
@@ -114,7 +114,7 @@ body {
 - Filtering of dangerous CSS functions and expressions
 - Prevention of inline JavaScript execution
 
-![Security Features](images/security-features.png)
+![Security Features](4th.png)
 
 ## Technical Specifications
 
